@@ -20,5 +20,7 @@ Your product will take a song as an input from the user and will output another 
 
 You have find data on the internet about currently popular songs. Billboard maintains a weekly Top 100 of "hot" songs here: [https://www.billboard.com/charts/hot-100](https://www.billboard.com/charts/hot-100).
 
-It's a good place to start! Scrape the current top 100 songs and their respective artists, and put the information into a pandas dataframe.
+It's a good place to start! 
+
+**The goal of this lab is to create a function: scrape_hot100()** to scrape the current top 100 songs present at [https://www.billboard.com/charts/hot-100](https://www.billboard.com/charts/hot-100) and their respective artists, put the information into a pandas dataframe, and save the dataframe in a csv file in the current folder. 
 
